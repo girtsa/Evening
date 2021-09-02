@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\3\Today\Today\bin\Debug\net5.0\Today.exe
+C:\Users\HP\Desktop\3\Today\Today\bin\Debug\net5.0\Today.deps.json
+C:\Users\HP\Desktop\3\Today\Today\bin\Debug\net5.0\Today.runtimeconfig.json
+C:\Users\HP\Desktop\3\Today\Today\bin\Debug\net5.0\Today.runtimeconfig.dev.json
+C:\Users\HP\Desktop\3\Today\Today\bin\Debug\net5.0\Today.dll
+C:\Users\HP\Desktop\3\Today\Today\bin\Debug\net5.0\ref\Today.dll
+C:\Users\HP\Desktop\3\Today\Today\bin\Debug\net5.0\Today.pdb
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.AssemblyInfo.cs
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.dll
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\ref\Today.dll
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.pdb
+C:\Users\HP\Desktop\3\Today\Today\obj\Debug\net5.0\Today.genruntimeconfig.cache
