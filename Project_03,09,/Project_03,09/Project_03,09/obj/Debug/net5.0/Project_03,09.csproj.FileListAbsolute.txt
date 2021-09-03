@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\bin\Debug\net5.0\Project_03,09.exe
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\bin\Debug\net5.0\Project_03,09.deps.json
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\bin\Debug\net5.0\Project_03,09.runtimeconfig.json
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\bin\Debug\net5.0\Project_03,09.runtimeconfig.dev.json
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\bin\Debug\net5.0\Project_03,09.dll
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\bin\Debug\net5.0\ref\Project_03,09.dll
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\bin\Debug\net5.0\Project_03,09.pdb
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.AssemblyInfo.cs
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.dll
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\ref\Project_03,09.dll
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.pdb
+C:\Users\HP\Desktop\3\Project_03,09,\Project_03,09\Project_03,09\obj\Debug\net5.0\Project_03,09.genruntimeconfig.cache
