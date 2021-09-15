@@ -31,7 +31,11 @@ namespace Task15._09_
             string greeting = "Hello my name is" + Name + "and I am" + Age + " years old";
 
             return greeting;
-        }
+
+
+            Console.WriteLine("What is telephone brand");
+            string brandText = Console.ReadLine();
+            int brand = int.Parse(brandText);       }
 
      }
 }
