@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..AssemblyInfo.cs
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\bin\Debug\net5.0\Task15.09..exe
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\bin\Debug\net5.0\Task15.09..deps.json
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\bin\Debug\net5.0\Task15.09..runtimeconfig.json
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\bin\Debug\net5.0\Task15.09..runtimeconfig.dev.json
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\bin\Debug\net5.0\Task15.09..dll
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\bin\Debug\net5.0\ref\Task15.09..dll
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\bin\Debug\net5.0\Task15.09..pdb
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..dll
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\ref\Task15.09..dll
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..pdb
+C:\Users\HP\Desktop\3\15.09\Task15.09\Task15.09\obj\Debug\net5.0\Task15.09..genruntimeconfig.cache
