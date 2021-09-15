@@ -35,7 +35,8 @@ namespace Task15._09_
 
             Console.WriteLine("What is telephone brand");
             string brandText = Console.ReadLine();
-            int brand = int.Parse(brandText);       }
+            int brand = int.Parse(brandText);     
+        }
 
      }
 }
