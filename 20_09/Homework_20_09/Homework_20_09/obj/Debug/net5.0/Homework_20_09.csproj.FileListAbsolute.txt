@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\bin\Debug\net5.0\Homework_20_09.exe
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\bin\Debug\net5.0\Homework_20_09.deps.json
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\bin\Debug\net5.0\Homework_20_09.runtimeconfig.json
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\bin\Debug\net5.0\Homework_20_09.runtimeconfig.dev.json
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\bin\Debug\net5.0\Homework_20_09.dll
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\bin\Debug\net5.0\ref\Homework_20_09.dll
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\bin\Debug\net5.0\Homework_20_09.pdb
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.AssemblyInfo.cs
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.dll
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\ref\Homework_20_09.dll
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.pdb
+C:\Users\HP\Desktop\3\20_09\Homework_20_09\Homework_20_09\obj\Debug\net5.0\Homework_20_09.genruntimeconfig.cache
